@@ -45,15 +45,15 @@ export default {
                 active: 'Teams',
             },
             teams: [
-                {name: 'Username', role: 'profession', img: '../../_nuxt/assets/img/team/01.jpg'},
-                {name: 'Username', role: 'profession', img: '../../_nuxt/assets/img/team/02.jpg'},
-                {name: 'Username', role: 'profession', img: '../../_nuxt/assets/img/team/02.jpg'},
-                {name: 'Username', role: 'profession', img: '../../_nuxt/assets/img/team/03.jpg'},
-                {name: 'Username', role: 'profession', img: '../../_nuxt/assets/img/team/04.jpg'},
-                {name: 'Username', role: 'profession', img: '../../_nuxt/assets/img/team/05.jpg'},
-                {name: 'Username', role: 'profession', img: '../../_nuxt/assets/img/team/06.jpg'},
-                {name: 'Username', role: 'profession', img: '../../_nuxt/assets/img/team/07.jpg'},
-                {name: 'Username', role: 'profession', img: '../../_nuxt/assets/img/team/08.jpg'}
+                {name: 'Username', role: 'profession', img: '../../assets/img/team/01.jpg'},
+                {name: 'Username', role: 'profession', img: '../../assets/img/team/02.jpg'},
+                {name: 'Username', role: 'profession', img: '../../assets/img/team/02.jpg'},
+                {name: 'Username', role: 'profession', img: '../../assets/img/team/03.jpg'},
+                {name: 'Username', role: 'profession', img: '../../assets/img/team/04.jpg'},
+                {name: 'Username', role: 'profession', img: '../../assets/img/team/05.jpg'},
+                {name: 'Username', role: 'profession', img: '../../assets/img/team/06.jpg'},
+                {name: 'Username', role: 'profession', img: '../../assets/img/team/07.jpg'},
+                {name: 'Username', role: 'profession', img: '../../assets/img/team/08.jpg'}
             ]
         };
     },
