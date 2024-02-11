@@ -2,7 +2,7 @@
     <nav class="px-8" :class="{'bg-[#F6F6F6]': showToggleMenu}">
         <div class="flex justify-between items-center">
             <div>
-                <img src="../../assets/img/logo.png" alt="">
+                <a href="/"><img src="../../assets/img/logo.png" alt=""></a>
             </div>
             <div class="flex space-x-4 ">
                 <img class="h-6 w-6" src="../../assets/img/icons/search.png" alt="">
