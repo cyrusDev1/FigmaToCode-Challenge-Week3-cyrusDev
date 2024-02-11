@@ -44,7 +44,7 @@
             <div class="block xl:flex justify-between px:0 xl:px-20 gap-8">
                 <div class="text-center xl:text-left space-y-8 mb-10 xl:mb-0">
                     <h2 class="text-[#E74040]">Problems trying</h2>
-                    <p class="text-2xl font-bold w-3/4 text-[#252B42] mx-auto  xl:mx-0">Met minim Mollie non desert Alamo est sit cliquey dolor do met sent.</p>
+                    <p class="text-2xl font-bold lg:w-3/4 text-[#252B42] mx-auto  xl:mx-0">Met minim Mollie non desert Alamo est sit cliquey dolor do met sent.</p>
                 </div>
                 <div class="flex items-center">
                     <p class="text-xl text-[#737373]">Problems trying to resolve the conflict between the two major realms of Classical physics: Newtonian mechanics </p>
