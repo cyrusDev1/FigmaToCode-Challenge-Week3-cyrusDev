@@ -25,19 +25,19 @@
         <div class="mt-20 space-y-20">
             <div class="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-4 gap-20 sm:gap-10 lg:gap-6">
                 <div class="text-center">
-                    <h2 class="font-bold text-7xl text-[#252B42]">15k</h2>
+                    <h2 class="font-bold text-6xl lg:text-7xl text-[#252B42]">15k</h2>
                     <p class="text-[#737373] text-2xl">Happy Customers</p>
                 </div>
                 <div class="text-center">
-                    <h2 class="font-bold text-7xl text-[#252B42]">150k</h2>
+                    <h2 class="font-bold text-6xl lg:text-7xl text-[#252B42]">150k</h2>
                     <p class="text-[#737373] text-2xl">Monthly Visitors</p>
                 </div>
                 <div class="text-center">
-                    <h2 class="font-bold text-7xl text-[#252B42]">15</h2>
+                    <h2 class="font-bold text-6xl lg:text-7xl text-[#252B42]">15</h2>
                     <p class="text-[#737373] text-2xl">Countries  Worldwide</p>
                 </div>
                 <div class="text-center">
-                    <h2 class="font-bold text-7xl text-[#252B42]">100+</h2>
+                    <h2 class="font-bold text-6xl lg:text-7xl text-[#252B42]">100+</h2>
                     <p class="text-[#737373] text-2xl">Top Partners</p>
                 </div>
             </div>
