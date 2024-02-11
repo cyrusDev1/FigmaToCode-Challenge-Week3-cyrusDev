@@ -1,7 +1,7 @@
 
 import { componentNames } from '#build/components';
 <template>
-    <section class="mt-20 mx-10 xl:mx-40">
+    <section class="mt-20 mx-5 xl:mx-40">
         <div class="">
             <div class="text-center space-y-4">
                 <h2 class="text-4xl font-bold">Pricing FAQs</h2>
