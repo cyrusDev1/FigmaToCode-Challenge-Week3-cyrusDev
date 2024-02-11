@@ -6,7 +6,7 @@
                     <div class="space-y-8">
                         <h2 class="uppercase font-bold text-xl">Contact Us</h2>
                         <h1 class="font-bold text-4xl lg:text-6xl w-full lg:w-2/4">Get in touch today!</h1>
-                        <p class="text-[#737373] text-2xl w-3/4 lg:w-2/4 mx-auto lg:mx-0">We know how large
+                        <p class="text-[#737373] text-2xl w lg:w-2/4 mx-auto lg:mx-0">We know how large
                             objects will act, but things
                             on a small scale</p>
                     </div>
