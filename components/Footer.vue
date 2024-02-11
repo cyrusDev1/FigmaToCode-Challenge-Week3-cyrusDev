@@ -1,6 +1,6 @@
 <template>
     <footer class="pt-10">
-        <div class="xl:px-40 px-10">
+        <div class="xl:px-40 px-5">
             <div class="pb-10">
                 <div class="block xl:flex justify-between">
                     <div>

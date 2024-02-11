@@ -21,7 +21,7 @@
                         }"></div>
                 </button>
                 <span class="text-base font-bold">Annually</span>
-                <div class=" rounded-full font-semibold p-2 text-[#23A6F0] bg-[#B2E3FF]">
+                <div class=" rounded-full font-semibold p-1 md:p-2 text-[#23A6F0] bg-[#B2E3FF]">
                     Save 25%
                 </div>
             </div>

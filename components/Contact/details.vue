@@ -6,13 +6,13 @@
                 <h1 class="font-bold text-4xl xl:w-2/5 mx-auto">We help small businesses with big ideas</h1>
             </div>
             <div class="grid grid-cols-1 md:grid-cols-2 2xl:grid-cols-3 mt-20 gap-8 2xl:gap-0 2xl:px-44">
-                <div class="space-y-5 px-5 py-20 shadow 2xl:shadow-none">
+                <div class="space-y-5 px-2 py-20 shadow 2xl:shadow-none">
                     <div class="flex justify-center">
                         <img src="../../assets/img/icons/phone.png" alt="">
                     </div>
                     <div class="text-center space-y-2">
-                        <p class="font-bold text-md xl:text-xl">georgia.young@example.com</p>
-                        <p class="font-bold text-md xl:text-xl">georgia.young@ple.com</p>
+                        <p class="font-bold text-sm xl:text-xl">georgia.young@example.com</p>
+                        <p class="font-bold text-sm xl:text-xl">georgia.young@ple.com</p>
                     </div>
                     <div>
                         <p class="text-center text-xl font-bold ">Get Support</p>
@@ -22,13 +22,13 @@
                             href="#">Submit Request</a>
                     </div>
                 </div>
-                <div class="space-y-5 px-5 bg-[#252B42] py-20">
+                <div class="space-y-5 px-2 bg-[#252B42] py-20">
                     <div class="flex justify-center">
                         <img src="../../assets/img/icons/map.png" alt="">
                     </div>
                     <div class="text-center space-y-2 text-white">
-                        <p class="font-bold text-md xl:text-xl">georgia.young@example.com</p>
-                        <p class="font-bold text-md xl:text-xl">georgia.young@ple.com</p>
+                        <p class="font-bold text-sm xl:text-xl">georgia.young@example.com</p>
+                        <p class="font-bold text-sm xl:text-xl">georgia.young@ple.com</p>
                     </div>
                     <div>
                         <p class="text-center text-xl font-bold text-white">Get Support</p>
@@ -38,13 +38,13 @@
                             href="#">Submit Request</a>
                     </div>
                 </div>
-                <div class="space-y-5 px-5 py-20 shadow 2xl:shadow-none">
+                <div class="space-y-5 px-2 py-20 shadow 2xl:shadow-none">
                     <div class="flex justify-center">
                         <img src="../../assets/img/icons/mail.png" alt="">
                     </div>
                     <div class="text-center space-y-2">
-                        <p class="font-bold text-md xl:text-xl">georgia.young@example.com</p>
-                        <p class="font-bold text-md xl:text-xl">georgia.young@ple.com</p>
+                        <p class="font-bold text-sm xl:text-xl">georgia.young@example.com</p>
+                        <p class="font-bold text-sm xl:text-xl">georgia.young@ple.com</p>
                     </div>
                     <div>
                         <p class="text-center text-xl font-bold">Get Support</p>
