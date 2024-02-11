@@ -1,7 +1,7 @@
 <template>
     <div>
         <div>
-            <nuxt-img class="w-full"  :src="team.img" />
+            <img class="w-full" src="../../assets/img/team/04.jpg" />
         </div>
         <div class="text-center space-y-3 mt-3">
             <h3 class="font-bold">{{ team.name }}</h3>
